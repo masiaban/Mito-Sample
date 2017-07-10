@@ -5,6 +5,7 @@ public class TestClass {
 
     public void testprint(){
         System.out.println("hello test one");
+        System.out.println("hello test two");
     }
 
 }
